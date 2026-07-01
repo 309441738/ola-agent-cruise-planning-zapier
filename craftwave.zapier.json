@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Planning Agent",
+  "description": "An intelligent assistant designed to help you plan your cruise vacations seamlessly. Get insights, recommendations, and booking assistance.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
